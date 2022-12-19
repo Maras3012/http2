@@ -1,0 +1,233 @@
+/*Deskopi manji od 576px*/
+@media (max-width: 575.98px) { 
+    /*Opcenito*/
+     .logo3{
+        width: 80px;
+        height: auto;
+    }
+
+    /*Naslovna*/
+    #bg-diagonal{
+        border-left: 0;
+        border-top: 0;
+        height: 360px;
+        width: 100%;
+        background-position: -600px center;
+    }
+   
+    h1{
+        font-size: 30px;
+        margin-left: 20px;
+    }
+    .pozadina2{
+        margin-top: 1000px;
+    }
+    .drustvo{
+        margin-right: 50px;
+    }
+    
+    .karta{
+        width: 360px;
+    }
+    
+    .misija{
+        margin-top: -50px;
+    }
+    #team{
+        margin-top: 800px;
+    }
+    
+    .drustvo{
+        margin-left: 100px;
+        margin-top: 100px;
+    }
+  
+    
+    /*O celijakiji*/
+    .slika1{
+        margin-left: 40px;
+    }
+     .slika2{
+         margin-top: 0px;
+        margin-left: 30px;
+    }
+     .slika3{
+         margin-top: 0px;
+        margin-left: 0px;
+    }
+    .jasna{
+        margin-left: 100px;
+        margin-top: 00px;
+    }
+    .atipicna{
+        margin-left: 100px;
+    }
+    .tiha{
+        margin-left: 100px;
+    }
+    .potencijalna{
+        margin-left: 100px;
+    }
+    .latentna{
+        margin-left: 100px;
+    }
+    .refraktorna{
+        margin-left: 100px;
+    }
+    .naslov_oblici{
+        margin-left: 150px;
+        margin-top: 900px;
+    }
+    .footer1{
+        width: 570px;
+        margin-top: 3000px;
+    }
+    
+    /*Recepti*/
+    .slika0{
+        margin-top: 400px;
+        height: 240px;
+        }
+    .sas{
+        margin-left: 150px;
+        margin-top: 50px;
+    }
+    .kruh{
+        margin-top: 250px;
+        margin-left: 130px;
+    }
+    .kruh1{
+       margin-top: 1000px; 
+        margin-left: 150px;
+    }
+    .pizza{
+        margin-top: 1100px;
+    }
+    .sast{
+        margin-top: 800px;
+    }
+    .pripr{
+        
+    }
+    .jedan{
+        margin-top: 1500px;
+    }
+    .dva{
+        margin-top: -200px;
+    }
+    .tri{
+        margin-top:  2230px;
+    }
+    .footer{
+        margin-top: 2500px;
+    }
+    
+
+
+/*Deskopi veci od 568px*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+   
+    /*Naslovna*/ 
+    #team{
+        margin-top: 450px;
+    }
+    h1{
+        margin-left: 93px;
+    }
+    .pozadina2{
+        margin-top: 600px;
+    }
+      .drustvo{
+        padding-left:  400px;
+        margin-left: -300px;
+    }
+    
+    
+    /*Recepti*/
+    .jedan{
+        margin-top: 700px;
+    }
+    .dva{
+        margin-top: 400px;
+    }
+    .tri{
+        margin-top: 700px;
+    }
+    .footer{
+        margin-top: 1200px;
+    }
+    .slika0{
+        height: 400px;
+        width: 600px;
+        margin-left: -50px;
+    }
+    .kruh1{
+        margin-top: 800px;
+    }
+    .pizza{
+        height: 340px;
+        width: 560px;
+        margin-top: 860px;
+    }
+    .sas{
+        margin-top: 100px;
+    }
+    .prip{
+        margin-top: 00px;
+    }
+    .sast{
+        margin-top: 500px;
+    }
+    .pripr{
+        margin-top: 00px;
+    }
+       
+   /*O celijakiji*/
+    .slika1{
+        height: 350px;
+        width: 500px;
+        margin-left: 0px;
+    }
+     .slika2{
+        height: 350px;
+        width: 500px;
+          margin-left: 0px;
+          margin-top: 0px;
+     }
+    .slika3{
+        height: 350px;
+        width: 500px;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    .jasna{
+        margin-top: 400px;
+    }
+     .footer1{
+        margin-top: 2400px;
+    }  
+}
+
+/*Deskopi veci od 768px*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    #team{
+        margin-top: 200px;
+    }
+    
+    .pozadina2{
+        margin-top: 400px;
+    }
+    
+    .drustvo{
+        margin-left: 200px;
+    }
+}
+
+/*Deskopi veci od 992px*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+}
+
+
+
+
+
